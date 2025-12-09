@@ -1,5 +1,6 @@
 {
-  "axn_lib": "1.1",
+  "axn_lib": "1.2",
   "AXN-SpawnSelector": "1.1",
-  "esx_identity": "1.0"
+  "esx_identity": "1.0",
+  "AXN-Rentals": "1.0"
 }
